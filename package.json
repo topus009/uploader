@@ -23,7 +23,7 @@
   "homepage": "https://topus009.github.io/uploader",
   "repository": {
     "type": "git",
-    "url": "https://github.com/topus009/uploader.git"
+    "url": "git@github.com:topus009/uploader.git"
   },
   "author": "Sergey Topolov"
 }
