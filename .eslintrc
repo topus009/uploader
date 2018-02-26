@@ -1,0 +1,38 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "extends": ["plugin:react/recommended","airbnb-base"],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "modules": true,
+      "jsx": true,
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "no-console": "off",
+    "object-curly-spacing": "off",
+    "object-curly-newline": "off",
+    "prefer-template":"off",
+    "semi":"off",
+    "arrow-body-style":"off",
+    "global-require": "off",
+    "eol-last":"off",
+    "comma-spacing": "off",
+    "camelcase":"off",
+    "block-spacing":"off",
+    "max-len":"off",
+    "no-named-as-default":"off",
+    "no-named-as-default-member":"off",
+    "react/prop-types": 0
+  }
+}
