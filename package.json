@@ -20,5 +20,10 @@
     "eslint-plugin-import": "^2.7.0",
     "gh-pages": "^1.1.0"
   },
-  "homepage": "https://topus009.github.io/uploader"
+  "homepage": "https://topus009.github.io/uploader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topus009/uploader.git"
+  },
+  "author": "Sergey Topolov"
 }
